@@ -1,6 +1,16 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hi, I'm Omri
 
 <samp>  i'm an engineering manager and GM at Wix during daylight ☀️ and coder mostly when the dawn comes alone 🌙</samp>
+<br/>
+<br/>
+![a](https://img.shields.io/badge/Inheritors%20%F0%9F%91%AB-2-yellow)
+![a](https://img.shields.io/badge/Code%20Quality-99.42-ff69b4)
+![a](https://img.shields.io/badge/Technical%20Debt-0.02%25-orange)
+![a](https://img.shields.io/badge/Status-Stable-brightgreen)
+![a](https://img.shields.io/badge/Job-Wix.com-blue)
+
+
+
 
 ### I'm passionate about:
 * Building product teams that work as teams and business partners
