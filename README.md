@@ -10,18 +10,16 @@
 ![a](https://img.shields.io/badge/Job-Wix.com-blue)
 
 
-
-
 ### I'm passionate about:
 * Building product teams that work as teams and business partners
 * Innovating with mobile, data and new technology
 * Facilitating teaching, learning, and understanding at all levels
 
 ### I'm pretty sure i’m good at:
--  building a product, designing systems, writing code and mentoring.
-- Applying Identity, data, and Engineering skills to drive innovation in marketing and advertising
--  Employing a practical agile approach to reaching lofty goals
--  Developing, explaining, and executing technical strategy from the high level to the very detailed
+- Building a product, designing systems, writing code and mentoring.
+- Applying , data, and Engineering skills to drive innovation in marketing and advertising
+- Employing a practical agile approach to reaching lofty goals
+- Developing, explaining, and executing technical strategy from the high level to the very detailed
 - Leading a large technical product organization to transparently partner with the business
 
 ### My last blog posts
