@@ -31,5 +31,5 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omribruchim/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:omribruchim@gmail.com)
-[![Linkedln](https://img.shields.io/twitter/follow/bruchim?style=social)]([https://www.linkedin.com/in/omribruchim/](https://twitter.com/omribruchim))
+[![Twtitter](https://img.shields.io/twitter/follow/bruchim?style=social)](https://twitter.com/omribruchim)
 
