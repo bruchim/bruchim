@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hi, I'm Omri
 
-<samp>  I'm an engineering manager and GM at Wix during daylight ☀️ and coder mostly when the dawn comes alone 🌙</samp>
+<samp>  I'm an engineering manager and during daylight ☀️ and coder mostly when the dawn comes alone 🌙</samp>
 <br/>
 <br/>
 ![a](https://img.shields.io/badge/Inheritors%20%F0%9F%91%AB-2-yellow)
