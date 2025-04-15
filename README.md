@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hi, I'm Omri
 
-<samp>  I'm an engineering manager and during daylight ☀️ and coder mostly when the dawn comes alone 🌙</samp>
+<samp>  Engineering manager by day ☀️, code wrangler by night 🌙 </samp>
 <br/>
 <br/>
 ![a](https://img.shields.io/badge/Inheritors%20%F0%9F%91%AB-2-yellow)
@@ -9,18 +9,19 @@
 ![a](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![a](https://img.shields.io/badge/Job-Stealth-blue)
 
+### What drives me
+* Building product teams that operate as true business partners
+* Innovating across backend, frontend, mobile, data, and emerging tech
+* Sharing knowledge—teaching, mentoring, and learning at every level
 
-### I'm passionate about:
-* Building product teams that work as teams and business partners
-* Innovating with mobile, data and new technology
-* Facilitating teaching, learning, and understanding at all levels
+### What I do well
+* Leading large engineering organizations that collaborate transparently with the business
+* Turning ideas into products: system design, hands‑on coding, and mentorship
+* Applying data, performance, and engineering rigor to unlock new value
+* Pairing pragmatic agile practices with ambitious goals
+* Crafting and communicating technical strategy—from big picture to byte‑level detail
 
-### I'm pretty sure i’m good at:
-- Building a product, designing systems, writing code and mentoring.
-- Applying Data, Performance and Engineering skills to drive innovative products
-- Employing a practical agile approach to reaching lofty goals
-- Developing, explaining, and executing technical strategy from the high level to the very detailed
-- Leading a large technical product organization to transparently partner with the business
+
 
 ### Get in touch
 
